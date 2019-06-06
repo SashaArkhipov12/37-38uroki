@@ -1,0 +1,23 @@
+body{
+	background-image: url(banner.jpg);
+}
+.shapka{
+	height: 50px;
+}
+.top{
+	height: 100px;
+}
+.banner{
+	height: 590px;
+}
+.banner2{
+	height: 400px;
+}
+.mt{
+	margin-top: 25px;
+}
+.pt{
+	padding-top: 40px;
+}
+
+
